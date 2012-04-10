@@ -1,0 +1,4 @@
+xrdb -merge ~/.Xresources
+nitrogen --restore
+pcmanfm --desktop-off
+@xcompmgr

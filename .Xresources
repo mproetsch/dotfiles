@@ -1,0 +1,16 @@
+URxvt.foreground: white
+URxvt.background: black
+!URxvt.font: xft:terminus:pixelsize=15
+urxvt.font:            9x15
+!-misc-dejavu sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-1
+urxvt.boldFont:         -xos4-terminus-bold-r-normal--14-140-72-72-c-80-iso8859-15
+urxvt.italicFont:       xft:Bitstream Vera Sans Mono:italic:autohint=true
+urxvt.boldItalicFont:   xft:Bitstream Vera Sans Mono:bold:italic:autohint=true
+URxvt.antialias:  true
+URxvt.saveLines:  1200
+URxvt.scrollBar:  off
+URxvt.iconFile:   /usr/share/icons/gnome/scalable/apps/utilities-terminal-symbolic.svg
+URxvt.perl-ext-common: default,matcher
+URxvt.urlLauncher:     /usr/bin/firefox
+URxvt.matcher.button:  1
+
